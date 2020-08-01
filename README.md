@@ -38,6 +38,7 @@
   * EJS       (motor de plantillas)
   * Morgan     (lista en consola de lo que piden los usrs)
   * NodeMond    (npm i nodemond -D  dependencia de desarrollo)
+  * bootstrap v5.4
 
   ## al ejecutarse en otra PC se testea el comando 
   
